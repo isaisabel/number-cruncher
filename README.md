@@ -1,6 +1,6 @@
 # Number Cruncher!
 
-What is number cruncher? Who knows! The best way to understand it is to try it, which is a foolish endeavor.
+What is number cruncher? Who knows! The best way to understand it is to [try it](https://isaisabel.github.io/number-cruncher/), which is a foolish endeavor.
 
 This application was intentionally designed to be terrible while not being adverserial to attempts to use it. Please don't look upon it as a reflection of my competency.
 
