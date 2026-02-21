@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+fieldset {
+  @apply border-4 rounded-lg;
+  @apply px-5 pb-4 pt-1;
+
+  legend {
+    @apply px-2 -mx-2;
+    @apply text-2xl font-black;
+  }
+}
